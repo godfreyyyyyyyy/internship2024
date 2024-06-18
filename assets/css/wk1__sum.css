@@ -1,0 +1,13 @@
+.post{
+    background-color: yellow;
+    padding: 20px;
+    width: 50%;
+    border-radius: 20px;
+}
+
+img{
+    width: 40%;
+    height: 50px;
+    border-radius: 50%;
+    margin: 12px;
+}
