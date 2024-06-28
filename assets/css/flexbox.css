@@ -1,0 +1,32 @@
+.flex-container {
+    display: flex;
+    justify-content: space-between; /* Distributes space evenly */
+    align-items: center; /* Aligns items vertically centered */
+    padding: 10px;
+    background-color: #f0f0f0;
+    flex-wrap: wrap; /* Wraps items if they don't fit */
+  }
+  .flex-item {
+    background-color: #007bff;
+    color: white;
+    padding: 20px;
+    margin: 5px;
+    flex: 1 1 200px; /* 1:1:200px grow: shrink: basis*/
+  }
+  seo
+  links in html
+  
+  css-selctor property
+  project bootstrap
+  jv outline
+  syntax
+  variables
+  loops
+  functions
+  data types
+  primitive data types
+  asynchonous programing
+  modules es oop in jv
+  how to handle errors in java
+  js brower ::-webkit-validation-bubble-arrow-clipper
+  collections
